@@ -23,3 +23,9 @@ Required libs
  * argparse
  * pickle
  
+
+ ### nnU-Net model
+
+ download link: xxxxx/zenodo.xxxxxx
+
+ 
